@@ -1,0 +1,13 @@
+.section{
+    background-color: rgb(244, 235, 235);
+    padding: 10px;
+    width: 100%;
+   background-image: url(../img/anime1.jpg);
+   background-size: cover;
+   background-blend-mode: lighten;
+   font-family: monospace;
+  
+}
+
+
+

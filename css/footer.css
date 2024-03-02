@@ -1,0 +1,17 @@
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: #333;
+    display: flex;
+    border-top: 5px solid black;
+    
+}
+iframe{
+    padding-top: 3px;
+}
+footer div{
+text-align: center;
+padding: 40px;
+
+    
+}
